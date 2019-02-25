@@ -15,3 +15,7 @@ This database contains 76 attributes, but all published experiments refer to usi
 ### Analyzing relationship between Chest Pain Categories, Resting blood pressure, and Gender
 
 ![Analyzing relationship between Chest Pain Categories, Resting blood pressure, and Gender](plots/patients_cp_trestbps_gender.png)
+
+![Box Plot](plots/patients_cp_testbps_gender_box.png)
+
+![Swarm Plot](plots/patients_cp_trestbps_swarm.png)
