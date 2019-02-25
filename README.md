@@ -20,4 +20,6 @@ This database contains 76 attributes, but all published experiments refer to usi
 
 ![Swarm Plot](plots/patients_cp_trestbps_swarm.png)
 
-![Violon Plot](patients_cp_trestbps_gender_violin.png)
+![Violin Plot](patients_cp_trestbps_gender_violin.png)
+
+![Violin Swarm Plot](patients_cp_trestbps_violin_swarm.png)
