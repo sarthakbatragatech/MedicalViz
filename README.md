@@ -10,4 +10,8 @@ This database contains 76 attributes, but all published experiments refer to usi
 
 ### Age and gender wise distribution of patients
 
-![Age and gender wise distribution of patients](plots/patients_gender_age.png')
+![Age and gender wise distribution of patients](plots/patients_gender_age.png)
+
+### Analyzing relationship between Chest Pain Categories, Resting blood pressure, and Gender
+
+![Analyzing relationship between Chest Pain Categories, Resting blood pressure, and Gender](plots/patients_cp_trestbps_gender.png)
